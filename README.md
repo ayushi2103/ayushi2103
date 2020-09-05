@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Ayushi Tiwari - ayushi2103
 <!--
 **ayushi2103/ayushi2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I am Ayushi, currently a second year Computer Engineering student at University of Waterloo. 
