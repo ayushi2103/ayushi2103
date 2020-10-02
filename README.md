@@ -10,7 +10,7 @@ Hi, I am Ayushi, currently a second year Computer Engineering student at Univers
 - 😄 Pronouns: she/her
 
 
-<a href="ayushitiwari2103@gmail.com">
+<a href=mailto:"ayushitiwari2103@gmail.com">
   <img align="left" alt="Ayushi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ayushi21/">
